@@ -1,6 +1,6 @@
 #formula generator
 
-formula generaotr 
+formula generator 
 Command for running the backend
 0. create virtual environtmnet
 python -m venv venv

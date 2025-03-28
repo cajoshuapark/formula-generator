@@ -1,6 +1,6 @@
-# game-translator
-game script translator for indie game devs
+#formula generator
 
+formula generaotr 
 Command for running the backend
 0. create virtual environtmnet
 python -m venv venv

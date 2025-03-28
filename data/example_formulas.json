@@ -1,0 +1,119 @@
+[
+    {
+        "name": "Moonlight Blossom",
+        "variant": {
+            "english": "Green Floral Accord (Ethereal White Flowers)",
+            "chinese": "青香白花调"
+        },
+        "carrier": {
+            "english": "MCT Oil 65%",
+            "chinese": "MCT油 65%"
+        },
+        "preservation": {
+            "english": "0.5% Benzoin Resin + 0.3% Orange Blossom Absolute (Benzyl Alcohol)",
+            "chinese": "0.5%安息香树脂 + 0.3%橙花净油（苯甲醇）"
+        },
+        "description": "Moonlight Blossom is a delicate yet radiant fragrance, capturing the elegance of a moonlit garden. It opens with Bergamot, Lemon, Grapefruit, Yuzu, Spearmint, and Petitgrain, offering a crisp, airy freshness. The heart unfolds with Jasmine, Orange Blossom, Tuberose, Iris Root, and Ylang Ylang, creating a rich floral harmony. Geranium and Violet Leaf add depth, while Angelica Seed and Litsea Cubeba enhance vibrancy. A warm base of Mysore Sandalwood, Vanilla, Benzoin, Vetiver, and White Musk lingers, with a mystical touch of Palo Santo and Oakmoss, making it a timeless and enchanting scent."
+        ,
+        "active_ingredients": {
+            "top_notes": [
+                {
+                    "english": "Organic Bergamot FCF: 1.2%",
+                    "chinese": "有机佛手柑FCF 1.2%"
+                },
+                {
+                    "english": "Petitgrain Absolute: 0.8%",
+                    "chinese": "苦橙叶净油 0.8%"
+                },
+                {
+                    "english": "Spearmint Oil: 0.5%",
+                    "chinese": "绿薄荷油 0.5%"
+                },
+                {
+                    "english": "Lemon 10X Fold: 0.7%",
+                    "chinese": "柠檬10X 0.7%"
+                },
+                {
+                    "english": "Grapefruit Pink 5X Fold: 0.6%",
+                    "chinese": "粉红葡萄柚5X 0.6%"
+                },
+                {
+                    "english": "Japanese Yuzu Supercritical Extract: 0.2%",
+                    "chinese": "日本柚子超临界提取物 0.2%"
+                }
+            ],
+            "body_notes": [
+                {
+                    "english": "Egyptian Jasmine Grandiflorum Absolute: 0.3%",
+                    "chinese": "埃及茉莉净油 0.3%"
+                },
+                {
+                    "english": "Tuberose Absolute: 0.2%",
+                    "chinese": "晚香玉净油 0.2%"
+                },
+                {
+                    "english": "Moroccan Orange Blossom Absolute: 1%",
+                    "chinese": "摩洛哥橙花净油 1%"
+                },
+                {
+                    "english": "Iris Root Butter: 2%",
+                    "chinese": "鸢尾根黄油 2%"
+                },
+                {
+                    "english": "Organic Geranium Oil: 3%",
+                    "chinese": "天竺葵有机油 3%"
+                },
+                {
+                    "english": "Ylang Ylang Complete: 2%",
+                    "chinese": "依兰完整油 2%"
+                },
+                {
+                    "english": "Mimosa Absolute: 0.4%",
+                    "chinese": "金合欢净油 0.4%"
+                },
+                {
+                    "english": "Violet Leaf Absolute: 0.3%",
+                    "chinese": "紫罗兰叶净油 0.3%"
+                },
+                {
+                    "english": "Angelica Seed Oil: 0.2%",
+                    "chinese": "当归籽油 0.2%"
+                },
+                {
+                    "english": "Litsea Cubeba Oil: 0.1%",
+                    "chinese": "山鸡椒油 0.1%"
+                }
+            ],
+            "base_notes": [
+                {
+                    "english": "Mysore Sandalwood CO2 Extract: 5%",
+                    "chinese": "迈索尔檀香CO2提取物 5%"
+                },
+                {
+                    "english": "Vanilla Bean 20X Fold: 4%",
+                    "chinese": "香草豆20倍浓缩 4%"
+                },
+                {
+                    "english": "Benzoin Resin: 3%",
+                    "chinese": "安息香树脂 3%"
+                },
+                {
+                    "english": "Vetiverol: 2%",
+                    "chinese": "岩兰草醇 2%"
+                },
+                {
+                    "english": "Plant-Based White Musk: 1%",
+                    "chinese": "白麝香植物基 1%"
+                },
+                {
+                    "english": "Oakmoss Tincture: 0.8%",
+                    "chinese": "橡苔浸膏 0.8%"
+                },
+                {
+                    "english": "Palo Santo Wood Chips: 0.6%",
+                    "chinese": "秘鲁圣木碎片 0.6%"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,410 @@
+[
+    {
+        "AMBRETTE SEED": "AMYRIS",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "AMYRIL ACETATE",
+        "ESSENTIAL OIL": "DERIVATIVE"
+    },
+    {
+        "AMBRETTE SEED": "ANISEED",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "STAR ANISE",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "ANETHOL",
+        "ESSENTIAL OIL": "NATURAL ISOLATE"
+    },
+    {
+        "AMBRETTE SEED": "ARTEMISIA",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "BASIL",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "BENZOIN",
+        "ESSENTIAL OIL": "RESINOID"
+    },
+    {
+        "AMBRETTE SEED": "BERGAMOT (CRUDE,BF, FCF)",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "BLACKCURRANT BUD",
+        "ESSENTIAL OIL": "ABSOLUTE"
+    },
+    {
+        "AMBRETTE SEED": "BLACK PEPPER",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "BUCHU",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "CADE RECTIFIED",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "CARDAMOM",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "CARROT SEED",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "CELERY SEED",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "CHAMOMILE GERMAN",
+        "ESSENTIAL OIL": "ESSENTIAL OIL-ABSOLUTE"
+    },
+    {
+        "AMBRETTE SEED": "CHAMOMILE ROMAN",
+        "ESSENTIAL OIL": "ESSENTIAL OIL-ABSOLUTE"
+    },
+    {
+        "AMBRETTE SEED": "CINNAMON BARK",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "CISTUS",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "CLOVE",
+        "ESSENTIAL OIL": "ESSENTIAL OIL-ABSOLUTE"
+    },
+    {
+        "AMBRETTE SEED": "EUGENOL",
+        "ESSENTIAL OIL": "NATURAL ISOLATE"
+    },
+    {
+        "AMBRETTE SEED": "COGNAC",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "COCOA",
+        "ESSENTIAL OIL": "EXTRACT"
+    },
+    {
+        "AMBRETTE SEED": "COFFEE",
+        "ESSENTIAL OIL": "ABSOLUTE"
+    },
+    {
+        "AMBRETTE SEED": "COPAIBA RECTIFIED",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "CORIANDER",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "CUMIN",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "CYPRESS",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "DILL WEED",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "ELEMI",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "EUCALYPTUS",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "EUCALYPTOL",
+        "ESSENTIAL OIL": "NATURAL ISOLATE"
+    },
+    {
+        "AMBRETTE SEED": "FENNEL",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "FENUGREEK",
+        "ESSENTIAL OIL": "ABSOLUTE"
+    },
+    {
+        "AMBRETTE SEED": "FIR NEEDLE",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "GALBANUM",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "GERANIUM",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "RHODINOL",
+        "ESSENTIAL OIL": "NATURAL ISOLATE"
+    },
+    {
+        "AMBRETTE SEED": "GINGER",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "GRAPEFRUIT (CRUDE, FCF)",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "GURJUM",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "HELICHRYSUM",
+        "ESSENTIAL OIL": "ESSENTIAL OIL-ABSOLUTE"
+    },
+    {
+        "AMBRETTE SEED": "HYSSOP",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "JASMINE GRANDIFLORUM",
+        "ESSENTIAL OIL": "ABSOLUTE"
+    },
+    {
+        "AMBRETTE SEED": "JASMINE SAMBAC",
+        "ESSENTIAL OIL": "ABSOLUTE"
+    },
+    {
+        "AMBRETTE SEED": "JUNIPERBERRY",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "LABDANUM",
+        "ESSENTIAL OIL": "RESINOID"
+    },
+    {
+        "AMBRETTE SEED": "LAUREL LEAF",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "LAVANDIN",
+        "ESSENTIAL OIL": "ESSENTIAL OIL-ABSOLUTE"
+    },
+    {
+        "AMBRETTE SEED": "LAVENDER",
+        "ESSENTIAL OIL": "ESSENTIAL OIL-ABSOLUTE"
+    },
+    {
+        "AMBRETTE SEED": "LEMON (CRUDE, FCF,FOLDED)",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "LEMONGRASS",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "LIME",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "LOVAGE ROOT",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "MANDARIN",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "MARJORAM",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "MIMOSA",
+        "ESSENTIAL OIL": "ABSOLUTE"
+    },
+    {
+        "AMBRETTE SEED": "MYRRH",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "MYRTLE",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "NEROLI",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "NEROLIDOL",
+        "ESSENTIAL OIL": "NATURAL ISOLATE"
+    },
+    {
+        "AMBRETTE SEED": "NIAOULI",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "NUTMEG (CRUDE, PURECOEUR)",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "OLIBANUM",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "ORANGE BITTER (CRUDE, MD)",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "ORANGE FLOWER",
+        "ESSENTIAL OIL": "ABSOLUTE"
+    },
+    {
+        "AMBRETTE SEED": "ORANGE SWEET",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "ORIGANUM",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "ORRIS",
+        "ESSENTIAL OIL": "ESSENTIAL OIL-RESINOID"
+    },
+    {
+        "AMBRETTE SEED": "PALMAROSA",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "PARSLEY SEED",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "PATCHOULI (MD, PURECOEUR)",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "PENNYROYAL",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "PULEGONE",
+        "ESSENTIAL OIL": "NATURAL ISOLATE"
+    },
+    {
+        "AMBRETTE SEED": "PEPPERMINT",
+        "ESSENTIAL OIL": "ESSENTIAL OIL- ABSOLUTE"
+    },
+    {
+        "AMBRETTE SEED": "PERU",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "PETITGRAIN CITRONNIER",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "PETITGRAIN PARAGUAY",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "RAVINTSARA",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "ROSE",
+        "ESSENTIAL OIL": "ESSENTIAL OIL- ABSOLUTE"
+    },
+    {
+        "AMBRETTE SEED": "ROSEMARY",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "ROSEWOOD",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "SANDALWOOD",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "SAGE CLARY",
+        "ESSENTIAL OIL": "ESSENTIAL OIL- ABSOLUTE"
+    },
+    {
+        "AMBRETTE SEED": "CLARY AMBER",
+        "ESSENTIAL OIL": "NATURAL ISOLATE"
+    },
+    {
+        "AMBRETTE SEED": "SAGE DALMATIAN",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "SAGE SPANISH",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "SAVORY",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "SPEARMINT",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "SPIKE LAVENDER",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "TAGETE",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "TANGERINE",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "TARRAGON",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "TEA TREE",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "THYME",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "TONKA BEAN",
+        "ESSENTIAL OIL": "ABSOLUTE"
+    },
+    {
+        "AMBRETTE SEED": "VANILLA",
+        "ESSENTIAL OIL": "OLEORESIN-EXTRACT-ABSOLUTE"
+    },
+    {
+        "AMBRETTE SEED": "VETIVER",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    },
+    {
+        "AMBRETTE SEED": "VETIVEROL",
+        "ESSENTIAL OIL": "NATURAL ISOLATE"
+    },
+    {
+        "AMBRETTE SEED": "VETIVERYL ACETATE",
+        "ESSENTIAL OIL": "DERIVATIVE"
+    },
+    {
+        "AMBRETTE SEED": "YLANG (EXTRA, I, I1, I1I, COMPLETE)",
+        "ESSENTIAL OIL": "ESSENTIAL OIL"
+    }
+]
